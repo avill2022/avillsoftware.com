@@ -15,9 +15,9 @@ $Y=date("Y");
 			<div class="flex items-center justify-between">
 			<div class="text-2xl font-bold gradient-text">Avill</div>
 		<div class="hidden md:flex space-x-8">
-			<a href="#servicios" class="text-white hover:text-blue-400 transition-colors">Servicios</a>
-		<a href="#nosotros" class="text-white hover:text-blue-400 transition-colors">Nosotros</a>
-		<a href="#contacto" class="text-white hover:text-blue-400 transition-colors">Contacto</a>
+			<a href="#servicios" class="text-white hover:text-blue-400 transition-colors" id="nav_our_services">Servicios</a>
+		<a href="#nosotros" class="text-white hover:text-blue-400 transition-colors" id="nav_we">Nosotros</a>
+		<a href="#contacto" class="text-white hover:text-blue-400 transition-colors" id="nav_contact">Contacto</a>
 	</div>
 		<button id="consulta_gratis" class="inline-flex items-center justify-center rounded-md text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-10 px-4 py-2 gradient-bg hover:scale-105 transition-transform">Consulta Gratis</button>
 	</div>

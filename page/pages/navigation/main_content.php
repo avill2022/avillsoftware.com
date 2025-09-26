@@ -52,7 +52,7 @@
 						<div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
 							<div class="glass-effect rounded-2xl p-8 text-center group cursor-pointer"
 								style="opacity: 1; transform: none;">
-								<a href="#servicios">
+								<a href="#">
 									<div id="software_developer1"
 										class="w-16 h-16 mx-auto mb-6 rounded-full bg-gradient-to-r from-blue-500 to-purple-600 flex items-center justify-center group-hover:scale-110 transition-transform">
 										<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
@@ -66,7 +66,7 @@
 									</div>
 								</a>
 								<h3 class="text-xl font-bold mb-4 text-white" id="software_developer2"> 
-									<a href="#servicios" class="text-white hover:text-blue-400 transition-colors">
+									<a href="#" class="text-white hover:text-blue-400 transition-colors">
 										Desarrollo de Software y Agentes con I.A.
 									</a>
 								</h3>
@@ -74,7 +74,7 @@
 							</div>
 							<div class="glass-effect rounded-2xl p-8 text-center group cursor-pointer"
 								style="opacity: 1; transform: none;">
-								<a href="#servicios">
+								<a href="#">
 									<div id="technical_advice1"
 										class="w-16 h-16 mx-auto mb-6 rounded-full bg-gradient-to-r from-green-500 to-teal-600 flex items-center justify-center group-hover:scale-110 transition-transform">
 										<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
@@ -86,7 +86,7 @@
 									</div>
 								</a>
 								<h3 class="text-xl font-bold mb-4 text-white" id="technical_advice2">
-									<a href="#servicios"
+									<a href="#"
 										class="text-white hover:text-blue-400 transition-colors">
 										Asesorías Técnicas
 									</a>
@@ -95,7 +95,7 @@
 							</div>
 							<div class="glass-effect rounded-2xl p-8 text-center group cursor-pointer"
 								style="opacity: 1; transform: none;">
-								<a href="#servicios">
+								<a href="#">
 									<div id="talent_recruitment1"
 										class="w-16 h-16 mx-auto mb-6 rounded-full bg-gradient-to-r from-orange-500 to-red-600 flex items-center justify-center group-hover:scale-110 transition-transform">
 										<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
@@ -113,13 +113,13 @@
 									</div>
 								</a>
 								<h3 class="text-xl font-bold mb-4 text-white" id="talent_recruitment2">
-									<a href="#servicios" class="text-white hover:text-blue-400 transition-colors">Contratación de Talento</a>
+									<a href="#" class="text-white hover:text-blue-400 transition-colors">Contratación de Talento</a>
 								</h3>
 								<p class="text-gray-300">Reclutamos los mejores programadores para tu equipo</p>
 							</div>
 							<div class="glass-effect rounded-2xl p-8 text-center group cursor-pointer"
 								style="opacity: 1; transform: none;">
-								<a href="#servicios">
+								<a href="#">
 									<div id="ai_training1"
 										class="w-16 h-16 mx-auto mb-6 rounded-full bg-gradient-to-r from-purple-500 to-pink-600 flex items-center justify-center group-hover:scale-110 transition-transform">
 										<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
@@ -135,7 +135,7 @@
 									</div>
 								</a>
 								<h3 class="text-xl font-bold mb-4 text-white" id="ai_training2">
-									<a href="#servicios" class="text-white hover:text-blue-400 transition-colors">Capacitación en IA</a>
+									<a href="#" class="text-white hover:text-blue-400 transition-colors">Capacitación en IA</a>
 								</h3>
 								<p class="text-gray-300">Cursos y entrenamientos empresariales sobre Inteligencia Artificial</p>
 							</div>

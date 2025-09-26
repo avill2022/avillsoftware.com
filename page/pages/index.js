@@ -45,7 +45,10 @@ $(document).ready(function () {
   /*$('software_developed').on('click', function() {
 
   });*/
-   $('#software_developed2').click(function () {
+   $('#software_developer1').click(function () {
+      loadpage("software-develop")
+    });
+       $('#software_developer2').click(function () {
       loadpage("software-develop")
     });
      $('#technical_advice2').click(function () {
@@ -58,7 +61,7 @@ $(document).ready(function () {
       loadpage("ai_training")
     });
 
-       $('#software_developed1').click(function () {
+    $('#software_developed1').click(function () {
       loadpage("software-develop")
     });
      $('#technical_advice1').click(function () {
@@ -70,6 +73,20 @@ $(document).ready(function () {
     $('#ai_training1').click(function () {
       loadpage("ai_training")
     });
+    //navigation
+    $('#nav_our_services').click(function () {
+                          $('#content').show();
+                    $('#content1').html("<div></div>");
+    });
+        $('#nav_we').click(function () {
+                          $('#content').show();
+                    $('#content1').html("<div></div>");
+    });
+        $('#nav_contact').click(function () {
+                          $('#content').show();
+                    $('#content1').html("<div></div>");
+    });
+
 });
 function loadpage(name){
 
