@@ -424,25 +424,25 @@
 										<label class="block text-sm font-medium text-gray-300 mb-2">Nombre</label>
 										<input type="text" id="name1"
 											class="w-full px-4 py-3 bg-slate-800 border border-slate-600 rounded-lg text-white focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-											placeholder="Tu nombre completo">
+											placeholder="Tu nombre completo" required>
 									</div>
 									<div>
 										<label class="block text-sm font-medium text-gray-300 mb-2">Email</label>
 										<input type="email" id="email1"
 											class="w-full px-4 py-3 bg-slate-800 border border-slate-600 rounded-lg text-white focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-											placeholder="tu@email.com">
+											placeholder="tu@email.com" required>
 									</div>
 									<div>
 										<label class="block text-sm font-medium text-gray-300 mb-2">Empresa</label>
 										<input type="text" id="company1"
 											class="w-full px-4 py-3 bg-slate-800 border border-slate-600 rounded-lg text-white focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-											placeholder="Nombre de tu empresa">
+											placeholder="Nombre de tu empresa" required>
 									</div>
 									<div>
 										<label class="block text-sm font-medium text-gray-300 mb-2">Mensaje</label>
 										<textarea rows="4" id="projectDescription1"
 											class="w-full px-4 py-3 bg-slate-800 border border-slate-600 rounded-lg text-white focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-											placeholder="Cuéntanos sobre tu proyecto...">
+											placeholder="Cuéntanos sobre tu proyecto..." required>
 										</textarea>
 									</div>
 									<button id="send_proyect_button" type="submit"

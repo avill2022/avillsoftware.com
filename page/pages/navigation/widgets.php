@@ -1,7 +1,7 @@
 <div id="widgets" class="grid col-340 fit">
       <div id="black-studio-tinymce-16" class="widget-wrapper widget_black_studio_tinymce divWeather2">
             <div class="widget-title">
-                  <h3><?php echo 'CLIMA DE HOY '.$d.' '.$meses[$m]; ?></h3>
+                  <h3><?php echo 'CLIMA DE HOY '; ?></h3>
                   <div id="bar_orange"></div>
             </div>
             <div class="textwidget" id="divWeather">

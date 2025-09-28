@@ -2,7 +2,7 @@
   header('Content-Type: application/json');
    $response['content']=array('status' => 'ERROR');
 
-    include('../../common/connect.php');
+   // include('../common/connect.php');
 
     //name,email,company,projectDescription
     $name = $_POST['name'];
@@ -33,5 +33,6 @@
         echo json_encode(["message" => "❌ Cannot Update the Category!"]);
     }*/
 
+    
     echo json_encode( ["message" => $name." ".$email." ".$company." ".$projectDescription]);
 ?>
